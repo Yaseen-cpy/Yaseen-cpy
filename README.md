@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yaseen-cpy
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning Computer Science Engineering
 - 📫 Reach me 9544550153
 
 <!---
